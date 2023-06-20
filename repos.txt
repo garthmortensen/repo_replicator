@@ -1,0 +1,4 @@
+# all the repos
+https://github.com/garthmortensen/folder_commander
+https://github.com/garthmortensen/kerberos_handler
+https://github.com/garthmortensen/testing_cloud
